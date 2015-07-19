@@ -1,0 +1,26 @@
+html{
+  background-image: url(http://dougandmarsha.com/Rubiks_Cube_Users_Guide_files/image002.jpg);
+  background-size:20%;
+  background-repeat:no-repeat;
+  background-position:center;
+}
+
+div p{
+  font-family:'indie flower',cursive;
+  display: inline-flex;
+  position:relative;
+  padding:10%;
+}
+
+
+
+p a {
+text-decoration: none;
+color: black;
+font-size: 17px;
+}
+
+.quote{
+  font-family:'indie flower',cursive;
+  text-align: center;
+}
