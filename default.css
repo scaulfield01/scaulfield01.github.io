@@ -1,0 +1,23 @@
+html{
+  background-image: url(http://www.pd4pic.com/images/rubiks-cube-cube-game-puzzle-toy-damaged-broken.png);
+  background-repeat:no-repeat;
+  background-position: top;
+  background-size: 10%;
+  display: inline-flex;
+}
+
+h1{
+  position: relative; ;
+  display: inline-flex;
+  font-family:'indie flower',cursive;
+  padding-top: 15%;
+  padding-left: 25%;
+  padding-right: 25%;
+  text-align: center;
+}
+
+body{
+  display:inline-block;
+  padding:10%;
+  font-family:'indie flower',cursive;
+}
