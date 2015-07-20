@@ -6,6 +6,12 @@ html{
   display: inline-flex;
 }
 
+a:hover{
+  color:white;
+  font-size: 150%
+}
+
+
 h1{
   position: relative; ;
   display: inline-flex;

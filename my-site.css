@@ -2,7 +2,7 @@ html{
   background-image: url(http://dougandmarsha.com/Rubiks_Cube_Users_Guide_files/image002.jpg);
   background-size:10%;
   background-repeat:no-repeat;
-  background-position:center;
+  background-position:48.4% 39%;
 }
 
 div p{
@@ -15,9 +15,14 @@ div p{
 
 
 p a {
-text-decoration: none;
-color: black;
-font-size: 17px;
+  text-decoration: none;
+  color: black;
+  font-size: 17px;
+}
+
+a:hover{
+  color:white;
+  font-size: 150%
 }
 
 .quote{
