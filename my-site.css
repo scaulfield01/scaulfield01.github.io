@@ -29,7 +29,6 @@ html{
     position: absolute;
     left: 123px;
     top: 56px;
-
 }
 
 #contact:hover:after{
@@ -38,7 +37,6 @@ html{
     position: absolute;
     left: 123px;
     top: 80px;
-
 }
 
 
@@ -60,6 +58,7 @@ p a {
 a:hover{
   color:white;
   font-size: 150%
+  :10px;
 }
 
 .quote{
