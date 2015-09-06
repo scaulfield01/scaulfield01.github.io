@@ -1,0 +1,47 @@
+html{
+  background-image: url('../Images/Background_image.jpg');
+  background-size:100%;
+  background-repeat:no-repeat;
+  }
+
+nav p{
+  font-family:'indie flower',cursive;
+  display: inline-flex;
+  position:relative;
+  padding:14%;
+}
+
+.quote{
+  font-family:'indie flower',cursive;
+  text-align: center;
+}
+
+a:hover{
+  color:white;
+  font-size: 150%
+  :10px;
+}
+
+#Facebook:hover:after{
+    content: url('../Images/icons/facebook-logo-57.png');
+    display: block;
+    position: absolute;
+    left: 110%;
+    top: 80px;
+}
+
+#Twitter:hover:after{
+    content: url('../Images/icons/twitter-logo-57.png');
+    display: block;
+    position: absolute;
+    left:-85%;
+    top: 80px;
+}
+
+#LinkedIn:hover:after{
+    content: url('../Images/icons/linkedin-logo-57.png');
+    display: block;
+    position: absolute;
+    left:27%;
+    top: 80px;
+}

@@ -1,42 +1,48 @@
 html{
-  background-image: url('Images/square1.jpg');
-  background-size:10%;
+  background-image: url('Images/Background_image.jpg');
+  background-size:100%;
   background-repeat:no-repeat;
   background-position:48.4% 39%;
   position:
 }
 
-
+h4{
+content: url('Images/new_cube_4.png');
+width: 10%;
+position: absolute;
+display: inline-block;
+left:44%;
+}
 #story:hover:after{
-    content: url('Images/square2.jpg');
+    content: url('Images/new_cube1.png');
     display: block;
     position: absolute;
-    left: 123px;
-    top: 80px;
-
+    left: 70px;
+    top: 140px;
+    width:5px;
 }
 #Thoughts:hover:after{
-    content: url('Images/square6.jpg');
+    content: url('Images/new_cube_2.png');
     display: block;
     position: absolute;
-    left: 123px;
-    top: 56px;
+    left: 70px;
+    top: 117px;
 }
 
 #works:hover:after{
-    content: url('Images/square4.jpg');
+    content: url('Images/new_cube3.png');
     display: block;
     position: absolute;
-    left: 123px;
-    top: 56px;
+    left: 70px;
+    top: 144px;
 }
 
 #contact:hover:after{
-    content: url('Images/square3.jpeg');
+    content: url('Images/new_cube_4.png');
     display: block;
     position: absolute;
-    left: 123px;
-    top: 80px;
+    left: 70px;
+    top: 120px;
 }
 
 
@@ -47,7 +53,9 @@ div p{
   padding:10%;
 }
 
-
+h2 img {
+opacity: %
+}
 
 p a {
   text-decoration: none;

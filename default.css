@@ -1,8 +1,8 @@
 html{
-  background-image: url(http://www.pd4pic.com/images/rubiks-cube-cube-game-puzzle-toy-damaged-broken.png);
+  background-image: url(https://crazybasenji.files.wordpress.com/2009/03/snowleopscketch.jpg);
   background-repeat:no-repeat;
   background-position: top;
-  background-size: 10%;
+  background-size: 100%;
   display: inline-flex;
 }
 
@@ -12,11 +12,12 @@ a:hover{
 }
 
 
+
 h1{
   position: relative; ;
   display: inline-flex;
   font-family:'indie flower',cursive;
-  padding-top: 15%;
+  padding-top: 0%;
   padding-left: 25%;
   padding-right: 25%;
   text-align: center;
@@ -24,7 +25,7 @@ h1{
 
 body{
   display:inline-block;
-  padding:10%;
+  padding:1%;
   font-family:'indie flower',cursive;
 }
 
