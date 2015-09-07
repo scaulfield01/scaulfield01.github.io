@@ -23,7 +23,7 @@ a:hover{
 }
 
 #Facebook:hover:after{
-    content: url('../Images/icons/facebook-logo-57.png');
+    content: url('../Images/ICONS/facebook_logo_57.png');
     display: block;
     position: absolute;
     left: 110%;
@@ -31,7 +31,7 @@ a:hover{
 }
 
 #Twitter:hover:after{
-    content: url('../Images/icons/twitter-logo-57.png');
+    content: url('../Images/ICONS/twitter_logo_57.png');
     display: block;
     position: absolute;
     left:-85%;
@@ -39,7 +39,7 @@ a:hover{
 }
 
 #LinkedIn:hover:after{
-    content: url('../Images/icons/linkedin-logo-57.png');
+    content: url('../Images/ICONS/linkedin_logo_57.png');
     display: block;
     position: absolute;
     left:27%;
