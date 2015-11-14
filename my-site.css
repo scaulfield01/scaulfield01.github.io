@@ -1,18 +1,18 @@
-html{
+html body{
   background-image: url('Images/Background_image.jpg');
-  background-size:100%;
-  background-repeat:no-repeat;
-  background-position:48.4% 39%;
-
+  background-repeat:repeat;
+  height: 100%;
+  background-position:center;
 }
 
-h4{
+#picture {
 content: url('Images/new_cube_4.png');
-width: 10%;
-position: absolute;
-display: inline-block;
-left:44%;
+
+width: 10em;
+margin:0 auto;
+margin-top: 5%;
 }
+
 #story:hover:after{
     content: url('Images/new_cube1.png');
     display: block;
@@ -21,13 +21,13 @@ left:44%;
     top: 140px;
     width:5px;
 }
-#Thoughts:hover:after{
+/*#Thoughts:hover:after{
     content: url('Images/new_cube_2.png');
     display: block;
     position: absolute;
     left: 70px;
     top: 117px;
-}
+}*/
 
 #works:hover:after{
     content: url('Images/new_cube3.png');
@@ -38,7 +38,7 @@ left:44%;
 }
 
 #contact:hover:after{
-    content: url('Images/new_cube_4.png');
+    content: url('Images/new_cube_2.png');
     display: block;
     position: absolute;
     left: 70px;
@@ -46,30 +46,30 @@ left:44%;
 }
 
 
-div p{
+div {
   font-family:'indie flower',cursive;
-  display: inline-flex;
-  position:relative;
-  padding:10%;
+  margin:0 auto;
+  text-align: center;
+  margin-top: 3em;
 }
 
-h2 img {
-opacity: %
-}
 
-p a {
+.col-md-4 a {
   text-decoration: none;
   color: black;
-  font-size: 17px;
+  font-size: 2em;
+
+
 }
 
 a:hover{
-  color:white;
-  font-size: 150%
-  :10px;
+  font-color:white;
+
 }
 
 .quote{
   font-family:'indie flower',cursive;
   text-align: center;
+  font-size: 3em;
+  background-color: transparent;
 }
