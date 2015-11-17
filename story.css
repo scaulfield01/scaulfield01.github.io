@@ -6,7 +6,6 @@ html body{
   font-family:'indie flower',cursive;
 }
 
-
 .quote{
   font-family:'indie flower',cursive;
   text-align: center;
@@ -25,8 +24,9 @@ html body{
 }
 
 #story{
-width: 45%;
+width: 70%;
 margin: 0 auto;
+font-size: 2em;
 }
 
 .col-md-12 {
@@ -41,4 +41,3 @@ margin: 0 auto;
   text-decoration: none;
   color: white;
 }
-
