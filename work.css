@@ -6,6 +6,25 @@ html body{
   font-family:'indie flower',cursive;
 }
 
+
+.quote{
+  font-family:'indie flower',cursive;
+  text-align: center;
+}
+
 .col-md-4 {
   margin-top: 3em;
+}
+
+.col-md-12 {
+  margin-top: 1em;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.75em;
+
+}
+
+.col-md-12 a:hover{
+  text-decoration: none;
+  color: white;
 }
