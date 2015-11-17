@@ -1,14 +1,8 @@
-html{
+html body{
   background-image: url('../Images/Background_image.jpg');
-  background-size:100%;
-  background-repeat:no-repeat;
-  }
-
-nav p{
-  font-family:'indie flower',cursive;
-  display: inline-flex;
-  position:relative;
-  padding:14%;
+  background-repeat:repeat;
+  height: 100%;
+  background-position:center;
 }
 
 .quote{
@@ -16,10 +10,19 @@ nav p{
   text-align: center;
 }
 
+div {
+  margin:0 auto;
+  margin-top: 5em;
+  margin-bottom: 3em;
+}
+img {
+  margin: 0 auto;
+  margin-left: 45%;
+}
+
 a:hover{
   color:white;
   font-size: 150%
-  :10px;
 }
 
 #Facebook:hover:after{

@@ -18,6 +18,8 @@ margin-top: 5%;
     margin-top: 2em;
     margin-left:72%;
     position: absolute;
+    text-decoration: none;
+
 }
 
 #works:hover:after{
@@ -26,6 +28,7 @@ margin-top: 5%;
     margin-top: 2em;
     margin-left: -25%;
     position: absolute;
+    text-decoration: none;
 }
 
 #contact:hover:after{
@@ -34,6 +37,7 @@ margin-top: 5%;
     margin-top: 1.5em;
     margin-left: -128%;
     position: absolute;
+    text-decoration: none;
 }
 
 div {
@@ -48,14 +52,13 @@ div {
 
 .col-md-4 a {
   text-decoration: none;
-  color: black;
   font-size: 2em;
-
+  color: black;
 }
 
 .col-md-4 a:hover{
-  font-color:white;
-
+  text-decoration: none;
+  color: white;
 }
 
 .quote{
