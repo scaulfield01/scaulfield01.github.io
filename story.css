@@ -30,7 +30,7 @@ font-size: 2em;
 }
 
 .col-md-12 {
-  margin-top: 5em;
+  margin-top: 1em;
   text-align: center;
   text-decoration: none;
   font-size: 1.75em;
@@ -40,4 +40,6 @@ font-size: 2em;
 .col-md-12 a:hover{
   text-decoration: none;
   color: white;
+   font-size: 200%;
 }
+
