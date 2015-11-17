@@ -6,7 +6,7 @@ html{
   display: inline-flex;
 }
 
-a:hover{
+div:hover{
   color:white;
   font-size: 150%
 }

@@ -7,7 +7,6 @@ html body{
 
 #picture {
 content: url('Images/new_cube_4.png');
-
 width: 10em;
 margin:0 auto;
 margin-top: 5%;
@@ -15,42 +14,35 @@ margin-top: 5%;
 
 #story:hover:after{
     content: url('Images/new_cube1.png');
-    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-left:72%;
     position: absolute;
-    left: 70px;
-    top: 140px;
-    width:5px;
 }
-/*#Thoughts:hover:after{
-    content: url('Images/new_cube_2.png');
-    display: block;
-    position: absolute;
-    left: 70px;
-    top: 117px;
-}*/
 
 #works:hover:after{
     content: url('Images/new_cube3.png');
-    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-left: -25%;
     position: absolute;
-    left: 70px;
-    top: 144px;
 }
 
 #contact:hover:after{
     content: url('Images/new_cube_2.png');
-    display: block;
+    margin: 0 auto;
+    margin-top: 1.5em;
+    margin-left: -128%;
     position: absolute;
-    left: 70px;
-    top: 120px;
 }
-
 
 div {
   font-family:'indie flower',cursive;
   margin:0 auto;
   text-align: center;
   margin-top: 3em;
+  margin-bottom: 3em;
+  padding: 1em;
 }
 
 
@@ -59,10 +51,9 @@ div {
   color: black;
   font-size: 2em;
 
-
 }
 
-a:hover{
+.col-md-4 a:hover{
   font-color:white;
 
 }
