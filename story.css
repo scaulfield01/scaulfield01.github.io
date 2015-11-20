@@ -40,6 +40,10 @@ font-size: 2em;
 .col-md-12 a:hover{
   text-decoration: none;
   color: white;
-   font-size: 200%;
+   font-size: 150%;
 }
 
+.col-md-12 a{
+  text-decoration: none;
+  color: black;
+}
