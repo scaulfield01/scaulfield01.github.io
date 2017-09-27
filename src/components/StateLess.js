@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import source from '../images/source.mp4';
 
 
@@ -45,7 +45,7 @@ export function PortfolioItems(props) {
 						<a href={work.link}>
 							<img 
 								className={index % 2 === 0 ? "col-md-6 col-md-push-6 img-responsive" : "col-md-6 img-responsive" }
-								alt="Responsive image" 
+								alt={work.name} 
 								src={work.img} 
 							/>
 						</a>
